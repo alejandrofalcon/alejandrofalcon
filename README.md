@@ -1,4 +1,4 @@
-<div align="center" href="https://github.com/eldiosx">
+<div align="center" href="https://github.com/alejandrofalcon">
 <img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=About+eldiosx" alt="Typing SVG" />
 </div>
 
@@ -12,7 +12,7 @@
  
 ## Contact:
  
-[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#p/+34625191020)
+
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:danieldelgadojimenez@pm.me)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/eldiosx/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eldiosx41020)
