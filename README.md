@@ -6,7 +6,7 @@
 
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alejandrofalcon/)
 
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://alejandrofalcon.github.io/cv/) 
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)]([https://alejandrofalcon.github.io/cv/](https://drive.google.com/file/d/1GvJniY-ic6uhEdfOqC8XdYvnI_W0HtdY/view?usp=sharing)) 
 
 <div>
  
