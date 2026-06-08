@@ -27,7 +27,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://www.linux.org/)
-[![Mac](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://www.linux.org/)
+[![Mac]([https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white](https://img.shields.io/badge/dynamic/yaml?logo=MacOs
+))](https://www.linux.org/)
 
  
 ### Code Languages:
